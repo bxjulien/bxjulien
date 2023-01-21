@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bxjulien&label=Profile%20views&color=0e75b6&style=flat" alt="bxjulien" /> </p>
 
-- 🔭 I’m currently working inside a private repository on **Obie**
+- 👨‍💻 My personal website is live at <a href="https://bxjulien.com" target="_blank">bxjulien.com</a>
 
-- 👨‍💻 My personal website is live at [https://bxjulien.com](https://bxjulien.com)
+- 🔭 I’m currently working on **Obie**, a customer order, so unfortunately the repository is private 
 
 - 📫 You can reach me at **contact@bxjulien.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julien-berthoumieux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-berthoumieux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/julien-berthoumieux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-berthoumieux" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
