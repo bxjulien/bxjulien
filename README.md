@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Obie**, a customer order, so unfortunately the repository is private 
 
+- 🔭 I’m also starting to work on a new personal project: <a href="https://github.com/bxjulien/racequest" target="blank">RaceQuest</a>
+
 - 📫 You can reach me at **contact@bxjulien.com**
 
 <h3 align="left">Connect with me:</h3>
