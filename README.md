@@ -1,16 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Julien Berthoumieux</h1>
-<h3 align="center">A 28 years old passionate fullstack javascript developer from Toulouse, France.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bxjulien&label=Profile%20views&color=0e75b6&style=flat" alt="bxjulien" /> </p>
-
-- 👨‍💻 My personal website is live at <a href="https://bxjulien.com" target="blank">bxjulien.com</a>
-
-- 🔭 I’m currently working on **Obie**, a customer order, so unfortunately the repository is private 
-
-- 🔭 I’m also starting to work on a new personal project: <a href="https://github.com/bxjulien/racequest" target="blank">RaceQuest</a>
-
-- 📫 You can reach me at **contact@bxjulien.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julien-berthoumieux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-berthoumieux" height="30" width="40" /></a>
